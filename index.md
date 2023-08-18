@@ -6,3 +6,9 @@
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+``` Python
+for i in range(10):
+    print (i+1)
+```
